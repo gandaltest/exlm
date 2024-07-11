@@ -764,6 +764,12 @@ export function getConfig() {
       hlxPreview: 'main--exlm--adobe-experience-league.hlx.page',
       hlxLive: 'main--exlm--adobe-experience-league.hlx.live',
     },
+    {
+      env: 'DEV-AUTHOR',
+      cdn: 'author-p122525-e1200861.adobeaemcloud.com',
+      hlxPreview: 'main--exlm--adobe-experience-league.hlx.page',
+      hlxLive: 'main--exlm--adobe-experience-league.hlx.live',
+    },
   ];
 
   const currentHost = window.location.hostname;
