@@ -4245,16 +4245,16 @@
         "component": "aem-tag",
         "valueType": "string",
         "name": "coveo-solution",
-        "label": "Solution(s)",
-        "rootPath": "/content/cq:tags/exl/solution",
+        "label": "TQ Solution(s)",
+        "rootPath": "/content/cq:tags/exltq/solution",
         "description": "Sets the Coveo Solution(s) in page meta."
       },
       {
         "component": "aem-tag",
         "valueType": "string",
         "name": "feature",
-        "label": "Feature(s)",
-        "rootPath": "/content/cq:tags/exl/feature",
+        "label": "TQ Feature(s)",
+        "rootPath": "/content/cq:tags/exltq/feature",
         "description": "Sets the Coveo Feature(s) in page meta."
       },
       {
