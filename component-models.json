@@ -4246,7 +4246,7 @@
         "valueType": "string",
         "name": "coveo-solution",
         "label": "TQ Solution(s)",
-        "rootPath": "/content/cq:tags/exltq/solution",
+        "rootPath": "/content/cq:tags/exltqnothash/solution",
         "description": "Sets the Coveo Solution(s) in page meta."
       },
       {
@@ -4254,7 +4254,7 @@
         "valueType": "string",
         "name": "feature",
         "label": "TQ Feature(s)",
-        "rootPath": "/content/cq:tags/exltq/feature",
+        "rootPath": "/content/cq:tags/exltqnothash/feature",
         "description": "Sets the Coveo Feature(s) in page meta."
       },
       {
